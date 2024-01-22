@@ -1,3 +1,9 @@
+
+
+![My temp workspace]
+![place for faceboom](https://github.com/MarekGoodman/MarekGoodman/blob/main/IMG_20240122_094535_988.jpg1)
+
+
 - 👋 Hi, I’m @MarekGoodman
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning python on stepik...
