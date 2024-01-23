@@ -1,7 +1,7 @@
 
 
 My temp workspace and angle for headbutting
-![place for faceboom](IMG_20240122_094546_167.jpg)
+![place for faceboom](forgit.jpg)
 
 
 - 👋 Hi, I’m @MarekGoodman
